@@ -3,3 +3,4 @@ faiss-cpu
 boto3
 langchain_community
 flask
+gunicorn
